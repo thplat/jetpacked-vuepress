@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-minimal",
+  "version": "1.0.0",
+  "description": "Minimal VuePress site for testing Jetpacked deployments",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.19"
+  }
+}
