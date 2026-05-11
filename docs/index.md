@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 🚀 YESS Deployed with Jetpacked - PUSHED WITH AUTODEPLOY 2
+heroText: 🚀 YESS NOW IT WILL WORK Deployed with Jetpacked - PUSHED WITH AUTODEPLOY 2
 tagline: This VuePress site was deployed automatically. No DevOps required.
 actions:
   - text: Read the Guide
