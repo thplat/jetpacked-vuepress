@@ -3,7 +3,7 @@ home: true
 heroText: HELLOWORLD🚀 YESS NOW IT WILL WORK Deployed with Jetpacked - PUSHED WITH AUTODEPLOY 2
 tagline: TAAAAhis VuePress site was deployed automatically. No DevOps required.
 actions:
-  - text: Read the Guide
+  - text: Push to deploy motherfucker Read the Guide
     link: /guide/
     type: primary
 features:
